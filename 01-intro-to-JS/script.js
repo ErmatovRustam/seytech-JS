@@ -17,13 +17,25 @@ function convertToCelsius(fahrenheit) {
   console.log(fahrenheit + ' in F is ' + celsius + ' C')
 }
 
-convertToCelsius(32)
+// convertToCelsius(32)
 
-// Task 3 - Convert the Temperature to F
-function convertToFarenheit(celsius) {
-  let farenheit = (celsius * 9) / 5 + 32
-  console.log(celsius + ' in celsius is ' + farenheit + ' F')
-}
+// // Task 3 - Convert the Temperature to F
+// function convertToFarenheit(celsius) {
+//   let farenheit = (celsius * 9) / 5 + 32
+//   console.log(celsius + ' in celsius is ' + farenheit + ' F')
+// // }
+
+// convertToFarenheit(40)
+
+// const convertToKm = (mile) => mile * 0.67
+// console.log('MILE TO KM IS: ' + convertToKm(10))
+
+
+// convertToFarenheit(40)
+
+// const convertToKm = (mile) => mile * 0.67
+// console.log('MILE TO KM IS: ' + convertToKm(10))
+
 
 convertToFarenheit(40)
 
